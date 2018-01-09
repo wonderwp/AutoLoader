@@ -1,0 +1,11 @@
+{
+    "name": "wonderwp/autoloader",
+    "description": "WonderWP autoloader",
+    "type": "wordpress-muplugin",
+    "authors": [
+        {
+            "name": "Jeremy Desvaux",
+            "email": "jeremy.desvaux@wonderful.fr"
+        }
+    ]
+}
