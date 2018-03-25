@@ -1,5 +1,5 @@
 {
-    "name": "wonderwp/autoloader",
+    "name": "wonderwp/autoload-wwp",
     "description": "WonderWP autoloader",
     "type": "wordpress-muplugin",
     "authors": [

@@ -9,4 +9,4 @@ Author URI:   http://digital.wonderful.fr
 License:      MIT License
 */
 
-\WonderWp\Framework\Loader::getInstance();
+\WonderWp\Bundle\Loader::getInstance();
