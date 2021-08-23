@@ -1,11 +1,21 @@
 {
-    "name": "wonderwp/autoload-wwp",
-    "description": "WonderWP autoloader",
-    "type": "wordpress-muplugin",
-    "authors": [
-        {
-            "name": "Jeremy Desvaux",
-            "email": "jeremy.desvaux@wonderful.fr"
-        }
-    ]
+  "name": "wonderwp/autoload-wwp",
+  "description": "WonderWP autoloader",
+  "type": "wordpress-muplugin",
+  "keywords": ["Autoload", "Autoloader", "WonderWp", "WordPress"],
+  "homepage": "https://github.com/wonderwp/AutoLoader",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Jeremy Desvaux",
+      "homepage": "https://jdmweb.com"
+    },
+    {
+      "name": "WonderWp Community",
+      "homepage": "http://wonderwp.net/Contribution/Contributors.html"
+    }
+  ],
+  "require": {
+    "php": ">=7.1"
+  }
 }
